@@ -8,6 +8,7 @@ Testes de componentes com vue utilizando a tabela padrão de usuários do larave
 Clone o repositório e instale o composer e nodejs
 Execute composer install ou composer update
 Execute npm install
+Configurar .env com banco de dados
 
 ## License
 
